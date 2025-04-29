@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# key tokens
+keys.py
+
+# Firebase credentials
+serviceAccountKey.json
+.streamlit/
