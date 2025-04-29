@@ -177,5 +177,5 @@ cython_debug/
 keys.py
 
 # Firebase credentials
-serviceAccountKey.json
 .streamlit/
+serviceAccountKey.json
